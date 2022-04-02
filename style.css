@@ -1,0 +1,21 @@
+body{
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    justify-content: center;
+
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    margin: 5px;
+    
+}
+
+#grid{
+    border: 1px solid blue;
+
+}
